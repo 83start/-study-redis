@@ -1,0 +1,4 @@
+spring:
+  redis:                    # redis
+    host: 127.0.0.1         # ip
+    port: 6379              # 端口
